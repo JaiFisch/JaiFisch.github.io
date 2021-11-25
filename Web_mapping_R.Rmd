@@ -11,7 +11,7 @@ knit: (function(input_file, encoding) {
 
 ## Web Mapping with Leaflet
 
-This workshop was originally developed by Aateka Shashank for SFU Library Research Commons, thank you Aateka! 
+This workshop was originally developed by Aateka Shashank for [SFU Library Research Commons] (https://www.lib.sfu.ca/about/branches-depts/rc), thank you Aateka! 
 
 Leaflet is a Javascript library. We are going to use Leaflet in R, a programming language we are most comfortable using.
 
