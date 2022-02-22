@@ -117,7 +117,7 @@ t5
 
 The aesthetic tweaks can be endless! So let's add some data into this mix!
 
-##Adding Data to Your Webmap
+## Adding Data to Your Webmap
 
 Lets try a WMS tile. Let's pull [Recreational Trails](https://catalogue.data.gov.bc.ca/dataset/recreation-line) from the BC Open Data Catalogue.
 
