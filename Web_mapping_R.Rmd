@@ -1,12 +1,8 @@
 ---
 title: "Web Mapping with R"
 author: "Jaimy Fischer"
-date: "26/11/2021"
-knit: (function(input_file, encoding) {
-  out_dir <- 'docs';
-  rmarkdown::render(input_file,
- encoding=encoding,
- output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
+date: "22/02/2022"
+output: html_document
 ---
 
 ## Web Mapping with Leaflet
